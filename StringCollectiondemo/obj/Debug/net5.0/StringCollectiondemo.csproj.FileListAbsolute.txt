@@ -1,0 +1,16 @@
+F:\DOTNET\StringCollectiondemo\StringCollectiondemo\bin\Debug\net5.0\StringCollectiondemo.exe
+F:\DOTNET\StringCollectiondemo\StringCollectiondemo\bin\Debug\net5.0\StringCollectiondemo.deps.json
+F:\DOTNET\StringCollectiondemo\StringCollectiondemo\bin\Debug\net5.0\StringCollectiondemo.runtimeconfig.json
+F:\DOTNET\StringCollectiondemo\StringCollectiondemo\bin\Debug\net5.0\StringCollectiondemo.runtimeconfig.dev.json
+F:\DOTNET\StringCollectiondemo\StringCollectiondemo\bin\Debug\net5.0\StringCollectiondemo.dll
+F:\DOTNET\StringCollectiondemo\StringCollectiondemo\bin\Debug\net5.0\ref\StringCollectiondemo.dll
+F:\DOTNET\StringCollectiondemo\StringCollectiondemo\bin\Debug\net5.0\StringCollectiondemo.pdb
+F:\DOTNET\StringCollectiondemo\StringCollectiondemo\obj\Debug\net5.0\StringCollectiondemo.csproj.AssemblyReference.cache
+F:\DOTNET\StringCollectiondemo\StringCollectiondemo\obj\Debug\net5.0\StringCollectiondemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET\StringCollectiondemo\StringCollectiondemo\obj\Debug\net5.0\StringCollectiondemo.AssemblyInfoInputs.cache
+F:\DOTNET\StringCollectiondemo\StringCollectiondemo\obj\Debug\net5.0\StringCollectiondemo.AssemblyInfo.cs
+F:\DOTNET\StringCollectiondemo\StringCollectiondemo\obj\Debug\net5.0\StringCollectiondemo.csproj.CoreCompileInputs.cache
+F:\DOTNET\StringCollectiondemo\StringCollectiondemo\obj\Debug\net5.0\StringCollectiondemo.dll
+F:\DOTNET\StringCollectiondemo\StringCollectiondemo\obj\Debug\net5.0\ref\StringCollectiondemo.dll
+F:\DOTNET\StringCollectiondemo\StringCollectiondemo\obj\Debug\net5.0\StringCollectiondemo.pdb
+F:\DOTNET\StringCollectiondemo\StringCollectiondemo\obj\Debug\net5.0\StringCollectiondemo.genruntimeconfig.cache
